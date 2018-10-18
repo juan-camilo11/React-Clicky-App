@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.alphacoders.com/929/929944.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://images4.alphacoders.com/929/929992.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://images3.alphacoders.com/659/thumb-1920-659819.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://images5.alphacoders.com/518/thumb-1920-518381.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://images5.alphacoders.com/539/thumb-1920-539170.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://images3.alphacoders.com/755/thumb-1920-755718.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://images4.alphacoders.com/589/thumb-350-589857.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://images7.alphacoders.com/749/thumb-350-749796.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://images7.alphacoders.com/930/thumb-350-930001.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://images.alphacoders.com/861/thumb-350-861305.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://images7.alphacoders.com/497/thumb-350-497580.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://images8.alphacoders.com/929/thumb-350-929931.jpg",
+      "clicked": false
+    }
+  ]

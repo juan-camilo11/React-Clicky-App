@@ -1,0 +1,12 @@
+.wrapper {
+    background: rgb(175, 175, 175);
+    color: white;
+    background-image: url('https://images5.alphacoders.com/571/thumb-1920-571559.jpg');
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
