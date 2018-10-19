@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.0d768ebb.chunk.css",
-  "main.js": "/static/js/main.e2826f58.chunk.js",
-  "main.js.map": "/static/js/main.e2826f58.chunk.js.map",
-  "static/js/1.709840df.chunk.js": "/static/js/1.709840df.chunk.js",
-  "static/js/1.709840df.chunk.js.map": "/static/js/1.709840df.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.0d768ebb.chunk.css.map": "/static/css/main.0d768ebb.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.b623b0c4fe186ec96ec27c92b81f4dea.js": "/precache-manifest.b623b0c4fe186ec96ec27c92b81f4dea.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/React-Clicky-App/static/css/main.16199746.chunk.css",
+  "main.js": "/React-Clicky-App/static/js/main.4da8de15.chunk.js",
+  "main.js.map": "/React-Clicky-App/static/js/main.4da8de15.chunk.js.map",
+  "static/js/1.709840df.chunk.js": "/React-Clicky-App/static/js/1.709840df.chunk.js",
+  "static/js/1.709840df.chunk.js.map": "/React-Clicky-App/static/js/1.709840df.chunk.js.map",
+  "runtime~main.js": "/React-Clicky-App/static/js/runtime~main.a407dcec.js",
+  "runtime~main.js.map": "/React-Clicky-App/static/js/runtime~main.a407dcec.js.map",
+  "static/css/main.16199746.chunk.css.map": "/React-Clicky-App/static/css/main.16199746.chunk.css.map",
+  "index.html": "/React-Clicky-App/index.html",
+  "precache-manifest.15ad0de2c46d5a4830ae201d26c1af47.js": "/React-Clicky-App/precache-manifest.15ad0de2c46d5a4830ae201d26c1af47.js",
+  "service-worker.js": "/React-Clicky-App/service-worker.js"
 }
